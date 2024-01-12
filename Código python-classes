@@ -1,2 +1,4 @@
-# classes_jogo
-Testando ferramentas de versionamento
+dic = {'Mago':'Magia','Guerreiro':'Espada','Monge':'Artes marciais','Ninja':'Shuriken'}
+for i,v in dic.items():
+    print(f'{i} ataca com {v}')
+
